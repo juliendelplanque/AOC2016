@@ -1,0 +1,3 @@
+action
+turnRight
+	^ AOCEast new

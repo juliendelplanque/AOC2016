@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "AOCOrientation",
+	"category" : "AOC2016-1",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AOCSouth",
+	"type" : "normal"
+}
